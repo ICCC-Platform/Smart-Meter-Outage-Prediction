@@ -1,19 +1,19 @@
 # Smart-Meter-Anomaly-Detection
----Data Source--------------------------
-The past outage history data was downloaded from Ausgrid
+---Data Source-------------------------- <br />
+The past outage history data was downloaded from Ausgrid <br />
 
-https://www.ausgrid.com.au/Industry/Our-Research/Data-to-share/Past-outage-data
-The original outage data contain three months outage history records and provided as XLSX file format
+https://www.ausgrid.com.au/Industry/Our-Research/Data-to-share/Past-outage-data <br />
+The original outage data contain three months outage history records and provided as XLSX file format <br />
 
----Experiment Environment---------------
-Python           : 3.5.2
-Keras            : 2.1.6
-Tensorflow       : 1.13.1
-Pandas           : 0.24.2
-Scikit-learn     : 0.21.3
-Imbalanced-learn : 0.5.0
+---Experiment Environment--------------- <br />
+Python           : 3.5.2 <br />
+Keras            : 2.1.6 <br />
+Tensorflow       : 1.13.1 <br />
+Pandas           : 0.24.2 <br />
+Scikit-learn     : 0.21.3 <br />
+Imbalanced-learn : 0.5.0 <br />
 
----Experiment Step----------------------
+---Experiment Step---------------------- <br />
 1. Run xlsx_to_csv.ipynb for transfer the outage history XLSX file to a CSV file.
 
 2. Run data_preprocess.ipynb for preprocessing the past outage data to a continuous hourly data contains non-outage and outage rows.
