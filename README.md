@@ -1,4 +1,4 @@
-# Smart-Meter-Anomaly-Detection
+# Smart-Meter-Outage-Prediction
 ---Data Source-------------------------- <br />
 The past outage history data was downloaded from Ausgrid <br />
 
