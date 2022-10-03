@@ -1,0 +1,27 @@
+PURL: /iccc-platform/smart-meter-outage-prediction
+domain
+/iccc-platform/smart-meter-outage-prediction
+
+redirect type
+302 Found
+
+target
+https://github.com/ICCC-Platform/Smart-Meter-Outage-Prediction
+
+created
+2022-10-02 10:34:34
+modified
+2022-10-02 10:34:34
+
+
+
+
+
+DOI
+Publication date:
+October 2, 2022
+DOI:
+10.5281/zenodo.7134896
+Related identifiers:
+Supplement to
+https://github.com/ICCC-Platform/Smart-Meter-Outage-Prediction/tree/v1.0.0
