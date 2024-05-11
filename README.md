@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7134896.svg)](https://doi.org/10.5281/zenodo.7134896)
 # Smart-Meter-Outage-Prediction
 ---Data Source-------------------------- <br />
 The past outage history data was downloaded from Ausgrid <br />
